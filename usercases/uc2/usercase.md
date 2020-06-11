@@ -1,3 +1,5 @@
+[Retour](../../readme.md)
+
 ### Cas 1: Inscrire un utilisateur
 
 #### Nom
@@ -44,7 +46,8 @@ Postconditions :
 |  | 10\. Le système vérifie que l’utilisateur détient un identifiant de connexion unique |
 |  | 11\. Le système enregistre le nouvel utilisateur |
 |  | 12\. Le système envoie une représentation du nouvel utilisateur |
-<br>
+
+
 #### diagramme de séquence complet
 
 [![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/usercases/uc2/sequence.md)](sequence.md "voir le diagramme")
