@@ -47,4 +47,4 @@ Postconditions :
 <br>
 #### diagramme de séquence complet
 
-[![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/usercases/uc1/diagram2.md)](diagram2.md "voir le diagramme")
+[![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/usercases/uc1/sequence.md)](sequence.md "voir le diagramme")
