@@ -1,6 +1,6 @@
 
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/diagram2.md)
 
-![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/diagram.txt)
 aaaaaaaaaaa
 
 
