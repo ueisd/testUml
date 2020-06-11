@@ -1,4 +1,4 @@
-```plantuml
+``` plantuml
 @startuml
 title Diagrame de séquence: \n Cas 1: Inscrire un utilisateur
 
