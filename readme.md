@@ -1,6 +1,6 @@
 
-![alt text](http://www.plantuml.com/plantuml/img/diagram.txt "title")
 
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=./diagram.txt)
 aaaaaaaaaaa
 
 
