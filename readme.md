@@ -1,5 +1,5 @@
 
-[![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/diagram2.md)](diagram2.md "voir le diagramme")]
+[![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/diagram2.md)](diagram2.md "voir le diagramme")
 
 aaaaaaaaaaa
 
