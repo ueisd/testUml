@@ -1,16 +1,18 @@
 ## Cas d’utilisation
 <br>
+### Cas d'utilisation
+
+* [Cas 1: Inscrire un utilisateur](usercases/usercase1.md)
+*
 <br>
-[Cas 1: Inscrire un utilisateur](usercases/usercase1.md)
-<br>
+
 #### Cas 1: Inscrire un utilisateur
 <br>
-#### Nom
 
+#### Nom
 Inscrire un utilisateur
 
 #### But
-
 Permettre à une personne d’utiliser le système
 
 #### Acteur principal ou acteurs principaux
@@ -35,8 +37,9 @@ Postconditions :
 
 #### Déroulement nominal
 <br>
-|  |  |
-| --- | --- |
+
+|       |       |
+| ---   | --- |
 | 1.	Le Préposé à l’inscription déclenche le cas d’utilisation |  |
 | 2.	Le Préposé à l’inscription indique au système<br>qu’il souhaite la liste des utilisateurs |  |
 |  | 3.	Le système vérifie que Le Préposé à l’inscription<br>détient le rôle « Préposé à l’inscription » dans le système |
