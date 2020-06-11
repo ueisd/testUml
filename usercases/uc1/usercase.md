@@ -1,5 +1,3 @@
-[Retour](../../readme.md)
-
 ### Cas 1: Inscrire un utilisateur
 
 #### Nom
@@ -51,3 +49,5 @@ Postconditions :
 #### diagramme de séquence complet
 
 [![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/pierrelucueisd/testUml/master/usercases/uc1/sequence.md)](sequence.md "voir le diagramme")
+
+[Retour](../../readme.md)
